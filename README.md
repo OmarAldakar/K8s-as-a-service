@@ -1,5 +1,7 @@
 # K8s as a Service
 
+## Présentation
+
 L’objectif de ce projet est de permettre à un opérateur télécom exploitant un réseau
 5G, de créer dynamiquement une infrastructure cloud-native (K8s cluster) sur une
 infrastructure de virtualisation de machines (Openstack) afin de déployer des fonctions
@@ -13,3 +15,7 @@ ce projet consiste à articuler aux deux briques précédentes, l’orchestrateu
 Kubernetes, qui permet d’introduire la virtualisation légère.
 
 Pour plus de détails sur ce projet lire le rapport se trouvant dans ce répertoire.
+
+## Images
+
+![Interface de MANO](OSM-MANO.png)
