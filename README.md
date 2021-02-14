@@ -23,7 +23,11 @@ Pour plus de détails sur ce projet lire le rapport se trouvant dans ce réperto
 ## Contributeurs
 
 Hamouda Belghith
+
 Aurélia Bordes
+
 Khouloud Hassayri
+
 Abel Odje
+
 Omar Aldakar
